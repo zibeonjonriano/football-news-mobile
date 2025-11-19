@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Download
 
-https://app.bitrise.io/app/a5423c8c-3370-4e2f-92dd-05e171d2f722/installable-artifacts/865e289169f43934/public-install-page/f2e8cea06061566e618d0f505b13204d
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/a5423c8c-3370-4e2f-92dd-05e171d2f722/installable-artifacts/865e289169f43934/public-install-page/f2e8cea06061566e618d0f505b13204d)
